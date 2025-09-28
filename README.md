@@ -1,16 +1,15 @@
-# raktdata_app
+# Output
 
-A new Flutter project.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1413f61d-79cf-479e-be58-94111a779eb7" width="300" style="margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/9a206e43-807b-42af-bd7d-9477bcc15091" width="300" style="margin: 10px;">
+</p>
 
-## Getting Started
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fa8f4152-6d05-4df5-abaf-c0d6814f16ae" width="300" style="margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/4b6c8258-eb7a-449f-a9c5-8627ef3b2194" width="300" style="margin: 10px;">
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cfe889ba-2aec-4abf-8d4b-20bcdffa3352" width="300" style="margin: 10px;">
+</p>
